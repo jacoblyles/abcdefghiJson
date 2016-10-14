@@ -1,3 +1,6 @@
+
+The more recent version of this library is at https://github.com/coursera/abcdefghiJson
+
 abcdefghiJson
 =============
 
